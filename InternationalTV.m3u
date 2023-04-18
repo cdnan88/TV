@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="半岛电视台" tvg-name="半岛电视台" tvg-logo="https://epg.112114.xyz/logo/半岛电视台.png" group-title="国际",半岛电视台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="国际",France24
+https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
