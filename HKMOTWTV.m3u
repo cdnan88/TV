@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://epg.112114.xyz/logo/ANTV.png" group-title="港澳台",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2台
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
@@ -15,7 +13,7 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="港澳台",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1,tvg-id="东森美洲卫视" tvg-name="东森美洲卫视" tvg-logo="https://epg.112114.xyz/logo/东森美洲卫视.png" group-title="港澳台",东森美洲卫视
+#EXTINF:-1,tvg-id="东森亚洲卫视" tvg-name="东森亚洲卫视" tvg-logo="https://epg.112114.xyz/logo/东森亚洲卫视.png" group-title="港澳台",东森亚洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
