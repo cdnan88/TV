@@ -13,7 +13,7 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="港澳台",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1,tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://epg.112114.xyz/logo/东森亚美洲.png" group-title="港澳台",东森美洲
+#EXTINF:-1,tvg-id="东森美洲电视" tvg-name="东森美洲电视" tvg-logo="https://epg.112114.xyz/logo/东森亚美洲电视.png" group-title="港澳台",东森美洲电视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
